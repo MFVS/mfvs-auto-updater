@@ -1,5 +1,5 @@
 {
     "repositories":[
-        "https://github.com/MFVS/stag-brozury.git"
+        "git@github.com:MFVS/stag-brozury.git"
     ]
 }

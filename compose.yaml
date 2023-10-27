@@ -3,5 +3,6 @@ services:
   updater:
     build: .
     volumes:
+      # - ./repositories:/app/repositories
       - /var/run/docker.sock:/var/run/docker.sock
     restart: always

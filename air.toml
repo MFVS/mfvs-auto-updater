@@ -15,7 +15,7 @@ tmp_dir = "tmp"
 # Watch these filename extensions.
 include_ext = ["go", "html", "css", "js", "toml", "conf"]
 # Ignore these filename extensions or directories.
-exclude_dir = ["tmp", "vendor", "node_modules", "views/generated"]
+exclude_dir = ["tmp", "vendor", "node_modules", "repositories"]
 # Watch these directories if you specified.
 include_dir = []
 # Exclude files.
