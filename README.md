@@ -1,5 +1,7 @@
 # MVFS docker-compose auto-updater
 
+> Currently not in development
+
 ## Why
 
 We need to have a zero-touch containerized deployment for a series of apps we make for our school that updates periodically. There's 2 ways we could do this:
